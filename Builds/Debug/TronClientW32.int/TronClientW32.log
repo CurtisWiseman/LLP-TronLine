@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\chip\desktop\uni work\llp\llp_assignment_2\trongamew32\code\client\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\llp\llp_assignment_2\trongamew32\code\client\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\llp\llp_assignment_2\trongamew32\code\client\main.cpp(114): warning C4101: 'm_keyboard': unreferenced local variable
+c:\users\chip\desktop\uni work\llp\llp_assignment_2\trongamew32\code\client\main.cpp(280): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  TronClientW32.vcxproj -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\TronClientW32.exe
+  TronClientW32.vcxproj -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\TronClientW32.pdb (Full PDB)
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\openal32.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\openal32.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-audio-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-audio-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-audio-d-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-audio-d-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-graphics-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-graphics-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-graphics-d-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-graphics-d-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-network-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-network-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-network-d-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-network-d-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-system-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-system-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-system-d-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-system-d-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-window-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-window-2.dll
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-window-d-2.dll -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-window-d-2.dll
+  11 File(s) copied
+  C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Resources\README.txt -> C:\Users\Chip\Desktop\Uni Work\LLP\LLP_Assignment_2\TronGameW32\Builds\Debug\Resources\README.txt
+  1 File(s) copied

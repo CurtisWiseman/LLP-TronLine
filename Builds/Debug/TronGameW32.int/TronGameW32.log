@@ -1,0 +1,31 @@
+﻿Build started 07/03/2017 15:15:29.
+     1>Project "H:\LLPfG\LLP_Assignment_2\TronGameW32\Projects\TronGameW32\TronGameW32.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\TronGameW32.int\\" /Fd"H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\TronGameW32.int\TronGameW32.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Code\Game\TronGame.cpp
+         TronGame.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\TronGameW32.lib" /NOLOGO H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\TronGameW32.int\TronGame.obj
+         TronGameW32.vcxproj -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\TronGameW32.lib
+       PostBuildEvent:
+         xcopy /i /e /s /y /f "H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\*" "H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\"
+         xcopy /i /e /s /y /f "H:\LLPfG\LLP_Assignment_2\TronGameW32\Resources\*" "H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\Resources\"
+         :VCEnd
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\openal32.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\openal32.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-audio-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-audio-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-audio-d-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-audio-d-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-graphics-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-graphics-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-graphics-d-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-graphics-d-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-network-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-network-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-network-d-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-network-d-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-system-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-system-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-system-d-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-system-d-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-window-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-window-2.dll
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Libs\SFML-2.4.2\bin\sfml-window-d-2.dll -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\sfml-window-d-2.dll
+         11 File(s) copied
+         H:\LLPfG\LLP_Assignment_2\TronGameW32\Resources\README.txt -> H:\LLPfG\LLP_Assignment_2\TronGameW32\Builds\Debug\Resources\README.txt
+         1 File(s) copied
+     1>Done Building Project "H:\LLPfG\LLP_Assignment_2\TronGameW32\Projects\TronGameW32\TronGameW32.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.31
